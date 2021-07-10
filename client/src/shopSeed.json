@@ -1,0 +1,100 @@
+[
+  {
+    "shopName": "Vallarta's Express",
+    "id": "60b27a447c42d12d18b51e27",
+    "featuredFood": "Carne Asada Burrito",
+    "rating": [5, 4, 5, 5, 5, 5, 4, 4, 4, 4, 5, 5, 3, 5],
+    "menuURL": "https://www.vallartaexpress.com/menu/",
+    "description": "The Best Mexican Food In town",
+    "location": "Pacific Beach",
+    "phone": "555-555-5555",
+    "address": "123 Garnet Ave",
+    "city": "San Diego",
+    "state": "California",
+    "zip": "92109",
+    "reviews": [
+      "Vallarta's Express has the BEST Carne Asada Burritos I've ever had",
+      "I've never had Mexican Food this good, this is amazing!",
+      "I am definitely going to go back there."
+    ]
+  },
+  {
+    "shopName": "Sombreros",
+    "id": "2",
+    "featuredFood": "Pollo Asado Quesadilla",
+    "rating": [5, 4, 5, 5, 4, 4, 4, 5, 5, 3, 5],
+    "menuURL": "https://sombreromex.com/menu/",
+    "description": "Mexican Food",
+    "location": "South Park",
+    "phone": "555-555-5555",
+    "address": "222 Fern Ave",
+    "city": "San Diego",
+    "state": "California",
+    "zip": "92104",
+    "reviews": [
+      "The Sombrero's Drive through was revolutionary",
+      "Sombreros was quick and easy!",
+      "Sombreros is a place I will defintitely go back to."
+    ]
+  },
+  {
+    "shopName": "Hilberto's Mexican Food",
+    "featuredFood": "Chimichangas",
+    "id": "3",
+    "rating": [5, 4, 4, 4, 4, 5, 5, 3, 5],
+    "menuURL": "http://www.hilbertos.com/menu/",
+    "description": "Mexican Food for Everybody",
+    "location": "El Cajon",
+    "phone": "555-555-5555",
+    "address": "5555 Jamacha Ave",
+    "city": "El Cajon",
+    "state": "California",
+    "zip": "92019",
+    "reviews": [
+      "I've been going to Hilberto's for years, it is always good.",
+      "I wish it was open 24/7, I would be going there all the time!",
+      "I always come here to get a breakfast burrito"
+    ]
+  },
+  {
+    "shopName": "JV's Mexican Food",
+    "featuredFood": "Surf & Turf Burrito",
+    "id": "4",
+    "description": "You WILL be Full",
+    "rating": [5, 4, 5, 5, 4, 3, 1, 5, 5, 5, 4, 4, 4, 4, 5, 5, 3, 5],
+    "menuURL": "http://jvsmexfood.com/about-us/",
+    "location": "Bay Park",
+    "phone": "555-555-5555",
+    "address": "999 Morena Blvd.",
+    "city": "San Diego",
+    "state": "California",
+    "zip": "92109",
+    "reviews": [
+      "I went to JV's, had the Surf & Turf Burrito, and I couldn't go back to work because I was so full.",
+      "I've never had a bad experience over here at JV's!",
+      "I always come to this spot, it's awesome."
+    ]
+  },
+  {
+    "shopName": "Taco Bell",
+    "featuredFood": "Crunch Wrap Supreme",
+    "id": "5",
+    "description": "Late Nite Mexican Food",
+    "rating": [
+      5, 4, 5, 3, 4, 3, 1, 5, 5, 5, 4, 4, 4, 4, 5, 5, 3, 5, 4, 4, 4, 4, 3, 2, 5,
+      5, 5
+    ],
+    "menuURL": "https://www.tacobell.com/food",
+    "location": "Kearney Mesa",
+    "phone": "555-555-5555",
+    "address": "333 Balboa Ave.",
+    "city": "San Diego",
+    "state": "California",
+    "zip": 92108,
+    "reviews": [
+      "Taco Bell is the best place to get a 4th meal, and to drown my sorrows",
+      "I always go for the crunch wrap supreme!",
+      "I come here when I am sad."
+    ]
+  }
+]

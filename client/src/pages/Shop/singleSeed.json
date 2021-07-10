@@ -1,0 +1,21 @@
+[
+  {
+    "shopName": "Vallarta's Express",
+    "id": "60b27a447c42d12d18b51e27",
+    "featuredFood": "Carne Asada Burrito",
+    "rating": [5, 4, 5, 5, 5, 5, 4, 4, 4, 4, 5, 5, 3, 5],
+    "menuURL": "https://www.vallartaexpress.com/menu/",
+    "description": "The Best Mexican Food In town",
+    "location": "Pacific Beach",
+    "phone": "555-555-5555",
+    "address": "123 Garnet Ave",
+    "city": "San Diego",
+    "state": "California",
+    "zip": "92109",
+    "reviews": [
+      "Vallarta's Express has the BEST Carne Asada Burritos I've ever had",
+      "I've never had Mexican Food this good, this is amazing!",
+      "I am definitely going to go back there."
+    ]
+  }
+]

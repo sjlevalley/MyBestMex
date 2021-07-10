@@ -1,0 +1,345 @@
+[
+  {
+    "shopName": "Vallarta's Express",
+    "id": "1",
+    "featuredFood": "Carne Asada Burrito",
+    "rating": [5, 4, 5, 5, 5, 5, 4, 4, 4, 4, 5, 5, 3, 5],
+    "imagePath": "uploads\\ts13.jpg",
+    "menuURL": "https://www.vallartaexpress.com/menu/",
+    "description": "The Best Mexican Food In town.",
+    "location": "Pacific Beach",
+    "phone": "858-490-9022",
+    "address": "1375 Garnet Ave",
+    "city": "San Diego",
+    "state": "California",
+    "zip": "92109",
+    "reviews": [
+      "Vallarta's Express has the BEST Carne Asada Burritos I've ever had",
+      "I've never had Mexican Food this good, this is amazing!",
+      "I am definitely going to go back there."
+    ]
+  },
+  {
+    "shopName": "Sombreros",
+    "id": "2",
+    "featuredFood": "Pollo Asado Quesadilla",
+    "rating": [5, 4, 5, 5, 4, 4, 4, 5, 5, 3, 5],
+    "imagePath": "uploads\\ts2.jpg",
+    "menuURL": "https://sombreromex.com/menu/",
+    "description": "The Sombrero Mexican Food we know today first opened in the summer of 1984, building off of the original concept dating back to the late 1960s. Javier, the CEO and founder, grew up serving authentic Mexican food in his parents original Sombrero located in the college area of San Diego, working in all aspects of the restaurant throughout his youth and into the late 1970s. After the completion of school and starting a family, Javier jumped at an opportunity to start Sombrero Mexican Food of his own as a quick service restaurant. By using many of the original authentic recipes, providing dine-in restaurant quality, and quick & friendly customer service, Javier started his dream of creating what Sombrero Mexican Food has become today.",
+    "location": "South Park",
+    "phone": "619-283-4947",
+    "address": "2201 Fern St.",
+    "city": "San Diego",
+    "state": "California",
+    "zip": "92104",
+    "reviews": [
+      "This place always hits the spot!",
+      "Sombreros was quick and easy!",
+      "Sombreros is a place I will defintitely go back to."
+    ]
+  },
+  {
+    "shopName": "Hilberto's Mexican Food",
+    "featuredFood": "Breakfast Burrito",
+    "id": "3",
+    "rating": [5, 4, 4, 4, 4, 5, 5, 3, 5],
+    "imagePath": "uploads\\ts3.jpg",
+    "menuURL": "http://www.hilbertos.com/menu/",
+    "description": "Hilbertos Mexican Food has been the local Mexican restaurant since 1994. From favorites like their famous Carrots to the customer inspired Carne Asada Fries, to more traditional Mexican cuisine like tacos and burritos. Hilbertos is serving it. Stop in today and find out why the people in the greater San Diego area chose Hilbertos Mexican Food.",
+    "location": "El Cajon",
+    "phone": "619-660-8465",
+    "address": "2648 Jamacha Road #170",
+    "city": "El Cajon",
+    "state": "California",
+    "zip": "92019",
+    "reviews": [
+      "I've been going to Hilberto's for years, the breakfast burrito has never failed me.",
+      "I wish it was open 24/7, I would be going there all the time!",
+      "I always come here to get a breakfast burrito"
+    ]
+  },
+  {
+    "shopName": "JV's Mexican Food",
+    "featuredFood": "Surf & Turf Burrito",
+    "id": "4",
+    "description": "Mexican Restaurant in San Diego, California",
+    "rating": [5, 4, 5, 5, 4, 3, 1, 5, 5, 5, 4, 4, 4, 4, 5, 5, 3, 5],
+    "imagePath": "uploads\\ts4.jpg",
+    "menuURL": "http://jvsmexfood.com/about-us/",
+    "location": "Morena",
+    "phone": "619-276-0758",
+    "address": "1112 Morena Blvd.",
+    "city": "San Diego",
+    "state": "California",
+    "zip": "92110",
+    "reviews": [
+      "I went to JV's, had the Surf & Turf Burrito, and I couldn't go back to work because I was so full.",
+      "I've never had a bad experience over here at JV's!",
+      "I always come to this spot, it's awesome."
+    ]
+  },
+  {
+    "shopName": "Taco Bell",
+    "featuredFood": "Crunch Wrap Supreme",
+    "id": "5",
+    "description": "Late Nite Mexican Food",
+    "rating": [
+      5, 4, 5, 3, 4, 3, 1, 5, 5, 5, 4, 4, 4, 4, 5, 5, 3, 5, 4, 4, 4, 4, 3, 2, 5,
+      5, 5
+    ],
+    "imagePath": "uploads\\ts5.jpg",
+    "menuURL": "https://www.tacobell.com/food",
+    "location": "Kearney Mesa",
+    "phone": "858-571-4713",
+    "address": "5230 Balboa Ave.",
+    "city": "San Diego",
+    "state": "California",
+    "zip": 92108,
+    "reviews": [
+      "Taco Bell is the best place to get a 4th meal, and to drown my sorrows",
+      "I always go for the crunch wrap supreme!",
+      "I come here when I am sad."
+    ]
+  },
+  {
+    "shopName": "Fidel's Little Mexico",
+    "featuredFood": "Wet Burritos",
+    "id": "6",
+    "description": "Fish tacos, chiles rellenos, margaritas & more Mexican fare in a colorful, hacienda-style space.",
+    "rating": [5, 4, 5, 3, 5, 4, 4, 4, 4, 3, 2, 5, 5, 5],
+    "imagePath": "uploads\\ts6.jpg",
+    "menuURL": "http://www.fidelslittlemexico.com/menu",
+    "location": "Solana Beach",
+    "phone": "858-755-5292",
+    "address": "607 Valley Ave.",
+    "city": "San Diego",
+    "state": "California",
+    "zip": 92075,
+    "reviews": [
+      "The atmosphere here is great for eating and drinking margaritas.",
+      "I've been coming here for almost 40-years. This place is great.",
+      "They put some sort of burrito sauce on their burritos and it tastes amazing."
+    ]
+  },
+  {
+    "shopName": "Lolita's Mexican Food",
+    "featuredFood": "Carne Asada Fries",
+    "id": "7",
+    "description": "Local chain for Mexican cuisine serving tacos, burritos & signature carne asada fries.",
+    "rating": [5, 4, 5, 3, 5, 4, 4, 4, 4, 3, 2, 5, 5, 5],
+    "imagePath": "uploads\\ts7.jpg",
+    "menuURL": "https://lolitasmexicanfood.com/menu/",
+    "location": "East Village",
+    "phone": "619-269-6055",
+    "address": "202 Park Blvd.",
+    "city": "San Diego",
+    "state": "California",
+    "zip": 92101,
+    "reviews": [
+      "The carne asada fries at this place are amazing.",
+      "This is the perfect location for a burrito after watching a baseball game",
+      "I always get good food at this place."
+    ]
+  },
+  {
+    "shopName": "Sarita's Taco Shop",
+    "featuredFood": "Carne Asada Quesadilla",
+    "id": "8",
+    "description": "Local go-to for surf 'n' turf burritos, carne asada fries & combo platters open 24/7.",
+    "rating": [5, 4, 5, 3, 5, 4, 4, 4, 4],
+    "imagePath": "uploads\\ts8.jpg",
+    "menuURL": "http://saritastacoshop.com/menu.html",
+    "location": "Spring Valley",
+    "phone": "619-589-0146",
+    "address": "9906 Campo Rd.",
+    "city": "Spring Valley",
+    "state": "California",
+    "zip": 91977,
+    "reviews": [
+      "We used to come here for some late night food, this place is always good and open 24 hours.",
+      "This is a hidden gem.",
+      "Awesome taco shop, I always come here whenever I am in town."
+    ]
+  },
+  {
+    "shopName": "Santana's Mexican Food",
+    "featuredFood": "Breakfast Burrito",
+    "id": "9",
+    "description": "Go-to for quick and tasty Mexican food",
+    "rating": [5, 4, 5, 3, 5, 4, 4, 4, 4],
+    "imagePath": "uploads\\ts9.jpg",
+    "menuURL": "http://www.google.com",
+    "location": "Spring Valley",
+    "phone": "619-589-0146",
+    "address": "9906 Campo Rd.",
+    "city": "Spring Valley",
+    "state": "California",
+    "zip": 91977,
+    "reviews": [
+      "We used to come here for some late night food, this place is always good and open 24 hours.",
+      "This is a hidden gem.",
+      "Awesome taco shop, I always come here whenever I am in town."
+    ]
+  },
+  {
+    "shopName": "Tacos El Gordo",
+    "featuredFood": "Street Tacos",
+    "id": "10",
+    "description": "Tacos just like you would get from the famous Street Taco vendors in Tijuana, BC, Mexico",
+    "rating": [5, 4, 5, 5, 5, 4, 4, 4, 4],
+    "imagePath": "uploads\\ts10.jpg",
+    "menuURL": "http://tacoselgordobc.com/menu/",
+    "location": "Chula Vista",
+    "phone": "619-207-0144",
+    "address": "689 H St",
+    "city": "Chula Vista",
+    "state": "California",
+    "zip": 91910,
+    "reviews": [
+      "The street tacos at this place are amazing.",
+      "If you're looking for tacos like you would find in TJ, this is definitely the place to come.",
+      "I will go out of my way to come to this place next time I come to San Diego."
+    ]
+  },
+  {
+    "shopName": "Lucha Libre Taco Shop",
+    "featuredFood": "Burritos",
+    "id": "12",
+    "description": "Located in near the San Diego Airport just off the I-5 Freeway, Lucha Libre offers Authentic Gourmet Mexican Food and is themed after the world famous Lucha Libre style of wrestling.",
+    "rating": [5, 4, 5, 5, 5, 4, 4, 4, 4],
+    "imagePath": "uploads\\ts11.jpg",
+    "menuURL": "https://www.luchalibretacoshop.com/",
+    "location": "Mission Hills",
+    "phone": "619-487-1520",
+    "address": "3016 University Ave",
+    "city": "San Diego",
+    "state": "California",
+    "zip": 92104,
+    "reviews": [
+      "This place is really good if you want some gourmet Mexican food.",
+      "I definitely plan on returning to this place next time I come back to San Diego",
+      "It's great and close to the airport so I like stopping here when I get to SD."
+    ]
+  },
+  {
+    "shopName": "Cotixan Mexican Food",
+    "featuredFood": "California Burrito",
+    "id": "13",
+    "description": "Taco Shop Chain that offers tasty Mexican Food.",
+    "rating": [5, 4, 5, 5, 5, 4, 4, 4, 4],
+    "imagePath": "uploads\\ts12.jpg",
+    "menuURL": "https://cotixan.com/",
+    "location": "Clairemont",
+    "phone": "858-571-8843",
+    "address": "4370 Genesee Ave",
+    "city": "San Diego",
+    "state": "California",
+    "zip": 92117,
+    "reviews": [
+      "Cotixan always comes through for some great Mexican Food, this place is clutch.",
+      "I've been to a few of their locations and they always put out some good food.",
+      "I live right next to this place and I am in heaven."
+    ]
+  },
+  {
+    "shopName": "Albert's Mexican Food",
+    "featuredFood": "Big Rolled Tacos",
+    "id": "14",
+    "description": "It was in 2004 when Albert realized his dream and opened his first taco shop. This 400 square foot space was located on Washington St. in El Cajon, CA. The taco shop was an immediate hit and quickly became the home of The Big Rolled Tacos. As the years went by, Albert consistently strived to make the Mexican food experience special and unforgettable.",
+    "rating": [5, 4, 5, 5, 5, 4, 4, 4, 4],
+    "imagePath": "uploads\\ts13.jpg",
+    "menuURL": "https://albertsmexicanfood.com/el-cajon-el-cajon-alberts-fresh-mexican-food-food-menu",
+    "location": "El Cajon",
+    "phone": "619-444-7713",
+    "address": "1530 Jamacha Rd.",
+    "city": "El Cajon",
+    "state": "California",
+    "zip": 92019,
+    "reviews": [
+      "Albert's is an amazing place to eat.",
+      "The rolled tacos at this place are Yuge!",
+      "I'll definitely be coming back to Albert's"
+    ]
+  },
+  {
+    "shopName": "El Zarape",
+    "featuredFood": "Lobster Burrito",
+    "id": "15",
+    "description": "Great Mexican food for a great price.",
+    "rating": [5, 4, 5, 5, 5, 4, 4, 4, 4],
+    "imagePath": "uploads\\ts14.jpg",
+    "menuURL": "https://elzarapeeatery.com/our-menu/",
+    "location": "North Park",
+    "phone": "619-794-0358",
+    "address": "3038 Adams Ave",
+    "city": "San Diego",
+    "state": "California",
+    "zip": 92116,
+    "reviews": [
+      "El Zarape es el mejor.",
+      "I'm Definitely coming back to this place.",
+      "This will be my new go-to spot after coming here."
+    ]
+  },
+  {
+    "shopName": "El Azteca",
+    "featuredFood": "Carne Asada Burrito",
+    "id": "16",
+    "description": "A hole in the wall taco shop offering great Mexican Food at an amazing price.",
+    "rating": [5, 4, 5, 5, 5, 4, 4, 4, 4],
+    "imagePath": "uploads\\ts7.jpg",
+    "menuURL": "http://www.google.com",
+    "location": "La Mesa",
+    "phone": "619-466-4113",
+    "address": "8306 Parkway Dr",
+    "city": "La Mesa",
+    "state": "California",
+    "zip": 91942,
+    "reviews": [
+      "This place has huge carne asada burritos that always hit the spot.",
+      "This is a hidden gem that I randomly found and will definitely be coming back to.",
+      "I always come here and know I am not going to be disappointed with my food."
+    ]
+  },
+  {
+    "shopName": "Rigobertos",
+    "featuredFood": "Carne Asada Fries",
+    "id": "17",
+    "description": "The Best Mexican Food in Town!",
+    "rating": [5, 4, 5, 5, 5, 4, 4, 4, 4],
+    "imagePath": "uploads\\ts8.jpg",
+    "menuURL": "https://www.rigobertostacoshop.net/",
+    "location": "La Jolla",
+    "phone": "858-454-4631",
+    "address": "7345 La Jolla Blvd",
+    "city": "La Jolla",
+    "state": "California",
+    "zip": 92037,
+    "reviews": [
+      "This place has 8 locations around town so I always seek out the closest one for some tasty mexican food.",
+      "I always come here to get either the Carne Asada fries or a burrito",
+      "This place always satisfies my Mexican food craving."
+    ]
+  },
+  {
+    "shopName": "Humbertos",
+    "featuredFood": "Carnitas",
+    "id": "17",
+    "description": "Tasty Mexican Food!",
+    "rating": [5, 4, 5, 5, 5, 4, 4, 4, 4],
+    "imagePath": "uploads\\ts2.jpg",
+    "menuURL": "http://www.google.com",
+    "location": "San Diego",
+    "phone": "619-231-8433",
+    "address": "1015 24th St",
+    "city": "San Diego",
+    "state": "California",
+    "zip": 92102,
+    "reviews": [
+      "This is my favorite spot for some Mexican food.",
+      "I come here as often as I can",
+      "I will definitely be coming back here."
+    ]
+  }
+]
