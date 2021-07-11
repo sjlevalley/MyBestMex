@@ -28,14 +28,26 @@ function FeaturedCard({
     history.push(`/shop/${id}`);
   };
 
+  // function linkToLoginSignup(event) {
+  //   event.stopPropagation();
+  //   return (
+  //     <>
+  //       <Link to="/login">Loginn &nbsp;</Link>or&nbsp;
+  //       <Link to="/signup">&nbsp; Sign Up &nbsp;</Link> to Submit your
+  //       rating
+  //     </>
+  //   )
+
+  // }
+
 
   return (
-    <div className="col-lg-12 m-1 featureCard" onClick={redirect}>
+    <div className="col-lg-12 m-1 featureCard">
       <div className="card-body lg-3 featuredCardBody " id="boxText">
         <div className="row">
           <div className="col-lg-3 ">
             <div className="d-flex justify-content-center">
-              <h2 className="card-title" id="boxText">
+              <h2 className="card-title" id="boxText" onClick={redirect}>
                 {shopName}
               </h2>
             </div>
@@ -44,11 +56,12 @@ function FeaturedCard({
               <img
                 src={imagePath}
                 alt={imagePath}
+                onClick={redirect}
                 className="featured-img-control m-3 "
               />
             </div>
             <hr />
-            <h5 className="card-text d-flex justify-content-center m-2" id="boxText">
+            <h5 className="card-text d-flex justify-content-center m-2" id="boxText" onClick={redirect}>
               <strong>Featured Food:&nbsp;</strong>
               {featuredFood}
               <br />
@@ -58,7 +71,7 @@ function FeaturedCard({
             <div className="m-2">
               <strong>About {shopName}: </strong>{description}
             </div>
-            <ul className="list-group list-group-flush">
+            <ul className="list-group list-group-flush" onClick={redirect}>
               <li className="list-group-item" id="locationBox">
                 <strong>Location: </strong>
                 {location}
@@ -99,7 +112,7 @@ function FeaturedCard({
               ) : (
                 <div className="d-flex justify-content-end m-2">
                   <>
-                    <Link to="/login">Login &nbsp;</Link>or{" "}
+                    <Link to="/login">Login &nbsp;</Link>or&nbsp;
                     <Link to="/signup">&nbsp; Sign Up &nbsp;</Link> to Submit your
                     rating
                   </>
