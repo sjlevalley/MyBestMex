@@ -2,7 +2,7 @@
 
 ![App Screenshot](AppScreenShot.png "Description")
 
-<p align="center">This deployed app can be viewed <a href="https://bestmexsd-appage.herokuapp.com/" target="_blank">Here</a></p>
+<p align="center">This deployed app can be viewed <a href="https://my-best-mex-sd.herokuapp.com/" target="_blank">Here</a></p>
 
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/tvnames/BestMexSD" />
@@ -19,7 +19,6 @@
     <img src="https://img.shields.io/badge/Deploy%3A-Heroku-pink"  />
     <img src="https://img.shields.io/badge/splide-js-yellowgreen"  />
     <img src="https://img.shields.io/badge/bootstrap-v4-blue"  />
-    <!-- <img src="https://img.shields.io/badge/license-MIT-blue" /> -->
 </p>
 
 ## DESCRIPTION
