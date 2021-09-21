@@ -19,7 +19,7 @@ import axios from "axios";
 function HomePage() {
   // const history = useHistory();
   // const auth = useAuth();
-  const location = useGeoLocation();
+  // const location = useGeoLocation();
   // const API_key = process.env.REACT_APP_google_API_key;
 
   // HandleDeleteFunction can be referenced from the "Friends" class activity in react
@@ -29,7 +29,7 @@ function HomePage() {
   // console.log(location.coordinates.lat)
 
   const debouncedSearchTerm = useDebounce(search, 400);
-  const AnyReactComponent = ({ text }) => <div>{text}</div>;
+  // const AnyReactComponent = ({ text }) => <div>{text}</div>;
   // const URL = `https://maps.googleapis.com/maps/api/geocode/json?latlng=${location.coordinates.lat},${location.coordinates.lng}&key=${API_key}`
 
   // const currentShop = restaurantArray[randomShop];
@@ -105,19 +105,19 @@ function HomePage() {
     }
   }
 
-  const searchByArea = async () => {
-    const res = await axios.get(
-      `https://maps.googleapis.com/maps/api/geocode/json?latlng=${location.coordinates.lat},${location.coordinates.lng}&key=AIzaSyB4q2B5RB2qh88hU6wjtD09ze7NRt3xIaY`
-    );
-    const areaName = res.data.results[0].address_components[2].short_name;
-    setSearch(areaName);
-    // if (
-    //   areaName === "Santee" ||
-    //   areaName === "El Cajon") { setSearch("Downtown") }
-    // else if (
-    //   areaName === "La Jolla" ||
-    //   areaName === "South Park") { setSearch("Mexico") }
-  };
+  // const searchByArea = async () => {
+  //   const res = await axios.get(
+  //     `https://maps.googleapis.com/maps/api/geocode/json?latlng=${location.coordinates.lat},${location.coordinates.lng}&key=AIzaSyB4q2B5RB2qh88hU6wjtD09ze7NRt3xIaY`
+  //   );
+  //   const areaName = res.data.results[0].address_components[2].short_name;
+  //   setSearch(areaName);
+  // if (
+  //   areaName === "Santee" ||
+  //   areaName === "El Cajon") { setSearch("Downtown") }
+  // else if (
+  //   areaName === "La Jolla" ||
+  //   areaName === "South Park") { setSearch("Mexico") }
+  // };
 
 
   return (
@@ -158,7 +158,7 @@ function HomePage() {
               />
             </div>
           </div>
-          <div className="row">
+          {/* <div className="row">
             <div className="col-lg-12">
               <button
                 type="button"
@@ -168,7 +168,7 @@ function HomePage() {
                 Click to see Taco Shops in your Area
               </button>
             </div>
-          </div>
+          </div> */}
         </section>
 
         <section className="row m-3 shopcard-control shopBox d-flex justify-content-around">
